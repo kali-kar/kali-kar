@@ -1,53 +1,42 @@
-# 👋 Hello, I'm Shrinidhi
+<h1 align="center">Hi 👋, I'm Shrinidhi</h1>
+<h3 align="center">A passionate developer exploring DBMS, Python, and Web Systems</h3>
 
-🎓 Bachelor of Engineering in Computer Science and Engineering in IOT Cybersecurity and BLockChain Technology  
-💡 Passionate about **Kali-Linux**, **Database-Administration**, and **Secure Networking**  
-🔐 Exploring Javascript, building mini-projects, and learning Javascript-Libraries  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shrinidhi&label=Profile%20views&color=0e75b6&style=flat" alt="shrinidhi" />
+</p>
 
----
+- 🔭 I’m currently working on **Pharmacy Management Systems and File Transfer Tools**
 
-## 🛠️ Tech Stack
+- 🌱 I’m currently learning **React, Embedded Systems (LPC2148), and ARM-GCC**
 
-**Languages:**  
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+- 👯 I’m looking to collaborate on **secure and scalable database applications**
 
-**Frontend & Backend:**  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tkinter](https://img.shields.io/badge/Tkinter-FF8000?style=for-the-badge&logo=python&logoColor=white)
+- 📫 How to reach me: **your.email@example.com**
 
-**Databases:**  
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-
-**Security & Tools:**  
-![OWASP](https://img.shields.io/badge/OWASP_Top_10-blue?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
----
-
-## 📚 Featured Projects
-
-- 🔐 **Payment Card Security Seminar**  
-  Explored magnetic stripe, EMV, and NFC vulnerabilities and mitigation techniques.
-
-- 📁 **Secure File Transfer System**  
-  Python-based platform with code-based file download and dynamic URLs.
-
-- 💊 **Pharmacy Management System**  
-  Adapted DBMS solutions to support healthcare recordkeeping with user-friendly interfaces.
+- ⚡ Fun fact: *I love turning complex systems into user-friendly solutions!*
 
 ---
 
-## 🔗 Let's Connect
+### 🛠️ Languages and Tools:
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Tkinter-FF69B4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/ARM-GCC-0091BD?style=for-the-badge"/>
+</p>
 
-- 🌐 [My Portfolio](#) (Coming soon!)
-- 📫 Email: your.email@example.com
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/shrinidhi-hegde-36a866252)
-- [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/your-profile-url)
+---
 
-💡 "If you can't explain it simply, you don't understand it well enough." – Albert Einstein
+### 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shrinidhi&show_icons=true&theme=radical" alt="shrinidhi stats"/>
+</p>
 
+---
 
+### 📫 Connect with me:
+<p align="left">
+  <a href="https://linkedin.com/in/your-linkedin" target="blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
