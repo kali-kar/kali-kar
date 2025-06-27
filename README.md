@@ -1,8 +1,8 @@
 # 👋 Hello, I'm Shrinidhi
 
-🎓 Bachelor of Engineering in Information Science & Engineering  
-💡 Passionate about **Python**, **Databases**, and **Secure Web Systems**  
-🔐 Exploring vulnerabilities, building scalable solutions, and learning embedded systems  
+🎓 Bachelor of Engineering in Computer Science and Engineering in IOT Cybersecurity and BLockChain Technology  
+💡 Passionate about **Kali-Linux**, **Database-Administration**, and **Secure Networking**  
+🔐 Exploring Javascript, building mini-projects, and learning Javascript-Libraries  
 
 ---
 
