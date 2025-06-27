@@ -45,7 +45,7 @@
 
 - 🌐 [My Portfolio](#) (Coming soon!)
 - 📫 Email: your.email@example.com
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/your-profile-url)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/shrinidhi-hegde-36a866252)
 - [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/your-profile-url)
 
 💡 "If you can't explain it simply, you don't understand it well enough." – Albert Einstein
