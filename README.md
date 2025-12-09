@@ -43,128 +43,168 @@ solutions to real-life Projects.
 
 ## My favorite tools and technologies ⚙️
 
-> Tools and technologies that I have worked with and am interested in
+> Tools and technologies that I work with and am interested in
 
 <table>
   <tr>
+    <!-- Python -->
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
-      <br>C#
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+      <a href="https://www.python.org/" target="_blank">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
       </a>
       <br>Python
     </td>
+
+    <!-- C -->
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-      <br>Javascript
+      <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
+        <img src="https://skillicons.dev/icons?i=c" width="65" height="65" alt="C" />
+      </a>
+      <br>C
     </td>
+
+    <!-- Java -->
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
-      <br>C++
+      <a href="https://www.java.com/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=java" width="65" height="65" alt="Java" />
+      </a>
+      <br>Java
     </td>
-       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
-      <br>Django
-    </td>
-       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
-      <br>Github
-    </td>
-          <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="65" height="65" alt="Rest API" />
-      <br>Rest API
-    </td>
-          <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65" alt="Rest API" />
-      <br>Docker
-    </td>
+
+    <!-- JavaScript -->
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="50" height="50" />
-      <br>Nginx
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+      </a>
+      <br>JavaScript
     </td>
-  </tr>
-  <tr>
+
+    <!-- HTML -->
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-      <br>Git
-    </td>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=gitlab" width="48" height="48" alt="GitLab" />
-      <br>GitLab
-    </td>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
+      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+        <img src="https://skillicons.dev/icons?i=html" width="65" height="65" alt="HTML" />
+      </a>
       <br>HTML
     </td>
+
+    <!-- CSS -->
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
+      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+        <img src="https://skillicons.dev/icons?i=css" width="65" height="65" alt="CSS" />
+      </a>
       <br>CSS
     </td>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
-      <br>Bootstrap
-    </td>
+
+    <!-- GitHub -->
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
-      <br>Tailwind
+      <a href="https://github.com/" target="_blank">
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
+      </a>
+      <br>GitHub
     </td>
-        <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jquery" />
-      <br>JQuery
+
+    <!-- REST API -->
+    <td align="center" width="96">
+      <a href="https://en.wikipedia.org/wiki/Representational_state_transfer" target="_blank">
+        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="65" height="65" alt="Rest API" />
+      </a>
+      <br>REST API
     </td>
-        <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="jquery" />
+  </tr>
+
+  <tr>
+    <!-- Git -->
+    <td align="center" width="96">
+      <a href="https://git-scm.com/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+      </a>
+      <br>Git
+    </td>
+
+    <!-- GitLab -->
+    <td align="center" width="96">
+      <a href="https://gitlab.com/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=gitlab" width="48" height="48" alt="GitLab" />
+      </a>
+      <br>GitLab
+    </td>
+
+    <!-- Tailwind -->
+    <td align="center" width="96">
+      <a href="https://tailwindcss.com/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
+      </a>
+      <br>TailwindCSS
+    </td>
+
+    <!-- React -->
+    <td align="center" width="96">
+      <a href="https://react.dev/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="ReactJS" />
+      </a>
+      <br>ReactJS
+    </td>
+
+    <!-- Next.js -->
+    <td align="center" width="96">
+      <a href="https://nextjs.org/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
+      </a>
+      <br>Next.js
+    </td>
+
+    <!-- Node.js -->
+    <td align="center" width="96">
+      <a href="https://nodejs.org/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+      </a>
+      <br>Node.js
+    </td>
+
+    <!-- MongoDB -->
+    <td align="center" width="96">
+      <a href="https://www.mongodb.com/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+      </a>
+      <br>MongoDB
+    </td>
+
+    <!-- PostgreSQL -->
+    <td align="center" width="96">
+      <a href="https://www.postgresql.org/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
+      </a>
       <br>PostgreSQL
     </td>
-            <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt="ASP.NET Core" />
-      <br>ASP.NET
-    </td>
   </tr>
-   <tr>
+
+  <tr>
+    <!-- Linux -->
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
-      <br>Redis
-    </td>
-        <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
-      <br>Postman
-    </td>
-            <td align="center" width="96">
+      <a href="https://www.linux.org/" target="_blank">
         <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
+      </a>
       <br>Linux
     </td>
+
+    <!-- Wireshark -->
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=dart" width="48" height="48" alt="dart" />
-      <br>Dart
+      <a href="https://www.wireshark.org/" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/e/e2/Wireshark_icon.svg" width="48" height="48" alt="Wireshark" />
+      </a>
+      <br>Wireshark
     </td>
+
+    <!-- Burp Suite -->
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=rabbitmq" width="48" height="48" alt="dart" />
-      <br>RabbitMQ
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=sentry" width="48" height="48" alt="dart" />
-      <br>sentry
-    </td>
-    <td align="center" width="96">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Celery_logo.png" width="48" height="48" alt="dart" />
-      <br>Celery
-    </td>
-    <td align="center" width="96">
-        <img src="https://docusaurus.io/img/docusaurus_keytar.svg" width="48" height="48" alt="dart" />
-      <br>Docusaurus
-    </td>
-    <td align="center" width="96">
-        <img src="https://bruhin.software/img/logos/pytest.svg" width="40" height="40" alt="dart" />
-      <br>Pytest
+      <a href="https://portswigger.net/burp" target="_blank">
+        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/portswigger.svg" width="48" height="48" alt="Burp Suite" />
+      </a>
+      <br>Burp Suite
     </td>
   </tr>
- <tr>
- </tr>
 </table>
+
 
 ## Github stats 📊
 
