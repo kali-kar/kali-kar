@@ -2,7 +2,7 @@
 <div align="justify">
 
 <!-- LinkedIn -->
-<a href="https://www.linkedin.com/in/your-linkedin-here/">
+<a href="https://www.linkedin.com/in/shrinidhi-hegde-36a866252/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
