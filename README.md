@@ -34,7 +34,10 @@
 
 <p></p>
 <p align="justify">
-welcome to my GitHub Page. I am Reza Shakeri and now Computer engineering student, I learn new things about programming and teach these things to others, I have been programming for almost more than 10 years and worked with many languages and technologies. Also, inside Instagram, I have a media called <a href="https://www.instagram.com/barnamenevisiinsta">Barnamenevisinsta</a> that shares everything I learn about programming.
+Computer Science undergraduate with strong expertise in backend programming and cybersecurity funda
+mentals. Experienced in developing secure, scalable server-side applications and database-driven systems
+using modern web technologies. Seeking opportunities to apply my skills in building secure, scalable
+solutions to real-life Projects.
 
 </p>
 
