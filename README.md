@@ -49,73 +49,76 @@ where I share everything I learn about programming.
 <table>
 <tr>
 <td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/c-icon.svg" width="65" height="65" />
-<br>C#
+<img src="https://skillicons.dev/icons?i=c" width="65" />
+<br>C
 </td>
 
 <td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" height="65" />
+<img src="https://skillicons.dev/icons?i=python" width="65" />
 <br>Python
 </td>
 
 <td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65" />
+<img src="https://skillicons.dev/icons?i=javascript" width="65" />
 <br>JavaScript
 </td>
 
 <td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="65" height="65" />
-<br>C++
-</td>
-
-<td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/django-icon.svg" width="65" height="65" />
-<br>Django
-</td>
-
-<td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" />
-<br>GitHub
-</td>
-
-<td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="65" height="65" />
-<br>REST API
-</td>
-
-<td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65" />
+<img src="https://skillicons.dev/icons?i=docker" width="65" />
 <br>Docker
 </td>
 
 <td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/nginx-icon.svg" width="50" height="50" />
-<br>Nginx
+<img src="https://skillicons.dev/icons?i=git" width="65" />
+<br>Git
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=html" width="65" />
+<br>HTML
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=css" width="65" />
+<br>CSS
 </td>
 </tr>
 
 <tr>
-<td align="center"><img src="https://skillicons.dev/icons?i=git" width="48"/><br>Git</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=gitlab" width="48"/><br>GitLab</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=html" width="48"/><br>HTML</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=css" width="48"/><br>CSS</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=bootstrap" width="48"/><br>Bootstrap</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="48"/><br>Tailwind</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=jquery" width="48"/><br>jQuery</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=postgres" width="48"/><br>PostgreSQL</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=dotnet" width="48"/><br>ASP.NET</td>
-</tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=tailwind" width="65" />
+<br>Tailwind
+</td>
 
-<tr>
-<td align="center"><img src="https://skillicons.dev/icons?i=redis" width="48"/><br>Redis</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=postman" width="48"/><br>Postman</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=linux" width="48"/><br>Linux</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=dart" width="48"/><br>Dart</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=rabbitmq" width="48"/><br>RabbitMQ</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=sentry" width="48"/><br>Sentry</td>
-<td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Celery_logo.png" width="48"/><br>Celery</td>
-<td align="center"><img src="https://docusaurus.io/img/docusaurus_keytar.svg" width="48"/><br>Docusaurus</td>
-<td align="center"><img src="https://bruhin.software/img/logos/pytest.svg" width="40"/><br>Pytest</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=nodejs" width="65" />
+<br>NodeJS
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=postgres" width="65" />
+<br>PostgreSQL
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=mongodb" width="65" />
+<br>MongoDB
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=kali" width="65" />
+<br>Kali Linux
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=ubuntu" width="65" />
+<br>Ubuntu
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=postman" width="65" />
+<br>Postman
+</td>
 </tr>
 </table>
 
