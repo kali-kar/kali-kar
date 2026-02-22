@@ -47,74 +47,74 @@ I’ve been coding for over 6 years and worked with many languages and technolog
 <table>
 <tr>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=c" width="65" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="65">
 <br>C
 </td>
 
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=python" width="65" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="65">
 <br>Python
 </td>
 
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=javascript" width="65" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="65">
 <br>JavaScript
 </td>
 
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=docker" width="65" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="65">
 <br>Docker
 </td>
 
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=git" width="65" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="65">
 <br>Git
 </td>
 
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=html" width="65" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="65">
 <br>HTML
 </td>
 
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=css" width="65" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="65">
 <br>CSS
 </td>
 </tr>
 
 <tr>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=tailwind" width="65" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="65">
 <br>Tailwind
 </td>
 
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=nodejs" width="65" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="65">
 <br>NodeJS
 </td>
 
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=postgres" width="65" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="65">
 <br>PostgreSQL
 </td>
 
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=mongodb" width="65" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="65">
 <br>MongoDB
 </td>
 
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=kali" width="65" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="65">
 <br>Kali Linux
 </td>
 
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=ubuntu" width="65" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="65">
 <br>Ubuntu
 </td>
 
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=postman" width="65" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="65">
 <br>Postman
 </td>
 </tr>
