@@ -29,16 +29,19 @@
 
 ---
 
-## 👋 About Me
+## 👋 🌟 About Me
 
-Welcome to my GitHub!
+✨ Welcome to my GitHub!
 
-I am **Reza Shakeri**, a Computer Engineering student passionate about programming.  
-I’ve been coding for over 10 years and worked with many languages and technologies.
+I am **Shrinidhi Hegde** 👨‍💻, a Computer Science Engineering student passionate about programming.  
+I’ve been coding for over 6 years and worked with many languages and technologies 🚀.
 
-On Instagram, I run a media page called  
-👉 **[Barnamenevisinsta](https://www.instagram.com/barnamenevisiinsta)**  
-where I share everything I learn about programming.
+💡 My interests include **Software Engineering**, **Cybersecutiy**, **SOC analysis**, **Internet of Things**.  
+
+🎶 I also love **Hindustani Classical Music**.  
+
+💻 Coding keeps me busy.  
+🎵 Music keeps me Sane.
 
 ---
 
@@ -123,5 +126,7 @@ where I share everything I learn about programming.
 </table>
 
 ---
+
+Checkout someof my Latest Projects
 
 
