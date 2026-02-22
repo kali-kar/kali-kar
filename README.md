@@ -19,13 +19,13 @@
   <a href="https://www.linkedin.com/in/rezshakeri/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white"/>
   </a>
-  <a href="https://t.me/barnamenevisiadmin/">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
-  </a>
-  <a href="https://gitlab.com/rzashakeri">
-    <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"/>
-  </a>
-</p>
+  <a href="https://leetcode.com/your-username/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://tryhackme.com/p/your-username">
+  <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/>
+</a>
 
 ---
 
