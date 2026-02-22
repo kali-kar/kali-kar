@@ -1,22 +1,17 @@
 <!-- HEADER IMAGE -->
 <p align="center">
   <img src="https://github.com/kali-kar/kali-kar/blob/main/Image.jpg" 
-       alt="👋 Hi there! I'm Reza" 
-       title="👋 Hi there! I'm Reza" />
+       alt="👋 Hi there! I'm Shri" 
+       title="👋 Hi there! I'm Shri" />
 </p>
 
 <!-- SOCIAL LINKS -->
 <p align="center">
-  <a href="https://www.instagram.com/rzashakeri/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/>
-  </a>
-  <a href="https://www.youtube.com/@rzashakeri">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-  </a>
-  <a href="https://www.twitter.com/rzashakeri/">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/rezshakeri/">
+  
+  <a href="mailto:shrinidhihegde.dev@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+  <a href="(https://www.linkedin.com/in/shrinidhi-hegde052/)">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white"/>
   </a>
   <a href="https://leetcode.com/your-username/">
@@ -130,20 +125,24 @@ I’ve been coding for over 6 years and worked with many languages and technolog
 
 Here are a few things I’ve been building lately 👇  
 
-### 🌐 Large File Transfer Website (WebRTC)
-A peer-to-peer large file transfer platform built using **WebRTC**, enabling secure and direct browser-to-browser file sharing without relying on traditional servers.  
-⚡ Fast. Private. Decentralized.  
-🔗 [View Project](https://github.com/yourusername/webrtc-file-transfer)
-
----
+### ⚙️ Secure CI/CD Pipeline with GitHub Actions  
+A repository that contains the source code of a simple web application along with a securely configured CI/CD pipeline using **GitHub Actions**.  
+Implements automated builds, testing workflows, and security-focused deployment practices.  
+🔐 Clean Code. Automated Workflows. Secure Deployment.  
+🔗 [View Project](https://github.com/kali-kar/Simple_DevOps-Pipeline)
 
 ### 🗄 Student Data Management System (DBMS Project)
 A complete **DBMS project** built using **Tkinter (Python GUI)** and **MySQL**, designed to manage student records efficiently with CRUD operations and structured database integration.  
 📊 Clean UI. Structured Data. Reliable Backend.  
-🔗 [View Project](https://github.com/yourusername/student-data-management)
+🔗 [View Project](https://github.com/kali-kar/DBMS_Project))
 
 ---
+### 🌐 Large File Transfer Website (WebRTC)
+A peer-to-peer large file transfer platform built using **WebRTC**, enabling secure and direct browser-to-browser file sharing without relying on traditional servers.  
+⚡ Fast. Private. Decentralized.  
+🔗 [View Project](https://github.com/kali-kar/Largefile-Transfer))
 
+---
 ### 💬 Messaging App Backend Server (Under Development)
 A scalable backend server powering a messaging application.  
 Built with focus on authentication, real-time communication, and structured API design.  
