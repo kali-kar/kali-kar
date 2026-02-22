@@ -126,7 +126,33 @@ I’ve been coding for over 6 years and worked with many languages and technolog
 </table>
 
 ---
+## 🚀 🔥 Checkout some of my Latest Projects
 
-Checkout someof my Latest Projects
+Here are a few things I’ve been building lately 👇  
+
+### 🌐 Large File Transfer Website (WebRTC)
+A peer-to-peer large file transfer platform built using **WebRTC**, enabling secure and direct browser-to-browser file sharing without relying on traditional servers.  
+⚡ Fast. Private. Decentralized.  
+🔗 [View Project](https://github.com/yourusername/webrtc-file-transfer)
+
+---
+
+### 🗄 Student Data Management System (DBMS Project)
+A complete **DBMS project** built using **Tkinter (Python GUI)** and **MySQL**, designed to manage student records efficiently with CRUD operations and structured database integration.  
+📊 Clean UI. Structured Data. Reliable Backend.  
+🔗 [View Project](https://github.com/yourusername/student-data-management)
+
+---
+
+### 💬 Messaging App Backend Server (Under Development)
+A scalable backend server powering a messaging application.  
+Built with focus on authentication, real-time communication, and structured API design.  
+🚧 Currently under development — improvements and features being added actively.  
+🔗 [View Project](https://github.com/yourusername/messaging-backend)
+
+---
+
+✨ More innovative builds are coming soon...  
+🚀 Stay tuned — the journey is just getting started.
 
 
