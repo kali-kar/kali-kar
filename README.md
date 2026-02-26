@@ -47,9 +47,9 @@ I’ve been coding for over 6 years and worked with many languages and technolog
 <table>
   <tr>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/c-icon.svg" alt="C" width="65" height="65" />
-      <br>C
-    </td>
+  <img src="https://www.readmecodegen.com/api/social-icon?name=c&size=96" alt="C" width="65" height="65" />
+  <br>C
+</td>
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
       <br>Python
