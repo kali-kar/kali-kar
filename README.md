@@ -113,6 +113,21 @@ I’ve been coding for over 6 years and worked with many languages and technolog
 
 Here are a few things I’ve been building lately 👇  
 
+### 🛡️ Intrusion Detection & Alert System (Raspberry Pi)  
+A real-time **intrusion detection system** built using **Raspberry Pi 4** and **Pi Camera**, designed for motion-based surveillance on edge devices.  
+Implements automated alerting via **Email & SMS APIs** to instantly notify users upon detection events.  
+Optimized for **low-power edge processing**, ensuring minimal latency and reliable performance.  
+Currently being enhanced with **NavIC-based geolocation** for aerial monitoring and location-aware security tracking.  
+📡 Edge AI. Real-time Alerts. Smart Surveillance.  
+🔗 [View Project](#)
+
+### 🌴 Karavali – Cultural Tourism Platform with AI Chatbot  
+A **web-based cultural & tourism platform** for Mangalore and Udupi, delivering structured navigation for landmarks and destinations.  
+Features an **AI-powered chatbot** built using a **Knowledge-Based Agent** and integrated with **Gemini LLM** for dynamic query resolution.  
+Enhances user engagement through **real-time information access** and an intuitive browsing experience.  
+🤖 Smart Assistance. Local Insights. Interactive Exploration.  
+🔗 [View Project](#)
+
 ### ⚙️ Secure CI/CD Pipeline with GitHub Actions  
 A repository that contains the source code of a simple web application along with a securely configured CI/CD pipeline using **GitHub Actions**.  
 Implements automated builds, testing workflows, and security-focused deployment practices.  
