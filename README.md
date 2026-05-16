@@ -1,6 +1,6 @@
 <!-- HEADER IMAGE -->
 <p align="center">
-  <img src="https://github.com/kali-kar/kali-kar/blob/main/image.jpg" 
+  <img src="https://github.com/kali-kar/kali-kar/blob/main/image.png" 
        alt="👋 Hi there! I'm Shri" 
        title="👋 Hi there! I'm Shri" />
 </p>
