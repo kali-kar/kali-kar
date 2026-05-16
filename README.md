@@ -31,7 +31,7 @@
 I am **Shrinidhi Hegde** 👨‍💻, a Computer Science Engineering student passionate about programming.  
 I’ve been coding for over 6 years and worked with many languages and technologies 🚀.
 
-💡 My interests include **Software Engineering**, **Cybersecutiy**, **SOC analysis**, **Internet of Things**.  
+💡 My interests include **Software Engineering**, **Cybersecurity**, **SOC analysis**, **Internet of Things**.  
 
 🎶 I also love **Hindustani Classical Music**.  
 
