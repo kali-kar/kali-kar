@@ -104,7 +104,26 @@ I’ve been coding for over 6 years and worked with many languages and technolog
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=postman" width="65" height="65" alt="Postman" />
       <br>Postman
-    </td>
+      </td>
+      <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=redis" width="65" height="65" alt="Redis" />
+    <br>Redis
+  </td>
+  
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=nginx" width="65" height="65" alt="Nginx" />
+    <br>Nginx
+  </td>
+  
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=cloudflare" width="65" height="65" alt="Cloudflare" />
+    <br>Cloudflare
+  </td>
+  
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=fastapi" width="65" height="65" alt="FastAPI" />
+    <br>FastAPI
+  </td>
   </tr>
 </table>
 
