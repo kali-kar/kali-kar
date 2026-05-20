@@ -166,7 +166,7 @@ Implements automated alerting via **Email & SMS APIs** to instantly notify users
 Optimized for **low-power edge processing**, ensuring minimal latency and reliable performance.  
 Currently being enhanced with **NavIC-based geolocation** for aerial monitoring and location-aware security tracking.  
 📡 Edge AI. Real-time Alerts. Smart Surveillance.  
-🔗 [View Project](#)
+🔗 [View Project](https://github.com/kali-kar/IOTAug25)
 
 ### 🌴 Karavali – Cultural Tourism Platform with AI Chatbot  
 A **web-based cultural & tourism platform** for Mangalore and Udupi, delivering structured navigation for landmarks and destinations.  
