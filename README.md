@@ -51,35 +51,35 @@ I’ve been coding for over 6 years and worked with many languages and technolog
       <br>C
     </td>
 
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
-      <br>Python
-    </td>
+  <td align="center" width="96">
+    <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+    <br>Python
+  </td>
 
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
-      <br>JavaScript
-    </td>
+  <td align="center" width="96">
+    <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+    <br>JavaScript
+  </td>
 
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
-      <br>Docker
-    </td>
+  <td align="center" width="96">
+    <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
+    <br>Docker
+  </td>
 
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=git" alt="Git" width="65" height="65" />
-      <br>Git
-    </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=git" alt="Git" width="65" height="65" />
+    <br>Git
+  </td>
 
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="65" height="65" />
-      <br>HTML
-    </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="65" height="65" />
+    <br>HTML
+  </td>
 
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="65" height="65" />
-      <br>CSS
-    </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="65" height="65" />
+    <br>CSS
+  </td>
   </tr>
 
   <tr>
@@ -88,35 +88,35 @@ I’ve been coding for over 6 years and worked with many languages and technolog
       <br>Tailwind
     </td>
 
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nodejs" alt="NodeJS" width="65" height="65" />
-      <br>NodeJS
-    </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=nodejs" alt="NodeJS" width="65" height="65" />
+    <br>NodeJS
+  </td>
 
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="65" height="65" />
-      <br>PostgreSQL
-    </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="65" height="65" />
+    <br>PostgreSQL
+  </td>
 
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="65" height="65" />
-      <br>MongoDB
-    </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="65" height="65" />
+    <br>MongoDB
+  </td>
 
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=linux" alt="Kali Linux" width="65" height="65" />
-      <br>Kali Linux
-    </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=linux" alt="Kali Linux" width="65" height="65" />
+    <br>Kali Linux
+  </td>
 
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=ubuntu" alt="Ubuntu" width="65" height="65" />
-      <br>Ubuntu
-    </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=ubuntu" alt="Ubuntu" width="65" height="65" />
+    <br>Ubuntu
+  </td>
 
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="65" height="65" />
-      <br>Postman
-    </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="65" height="65" />
+    <br>Postman
+  </td>
   </tr>
 
   <tr>
