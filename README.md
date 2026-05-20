@@ -47,86 +47,100 @@ I’ve been coding for over 6 years and worked with many languages and technolog
 <table>
   <tr>
     <td align="center" width="96">
-  <img src="https://www.readmecodegen.com/api/social-icon?name=c&size=96" alt="C" width="65" height="65" />
-  <br>C
-</td>
+      <img src="https://www.readmecodegen.com/api/social-icon?name=c&size=96" alt="C" width="65" height="65" />
+      <br>C
+    </td>
+
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
       <br>Python
     </td>
+
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
       <br>JavaScript
     </td>
+
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
       <br>Docker
     </td>
+
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=git" width="65" height="65" alt="Git" />
+      <img src="https://skillicons.dev/icons?i=git" alt="Git" width="65" height="65" />
       <br>Git
     </td>
+
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=html" width="65" height="65" alt="HTML" />
+      <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="65" height="65" />
       <br>HTML
     </td>
+
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=css" width="65" height="65" alt="CSS" />
+      <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="65" height="65" />
       <br>CSS
     </td>
   </tr>
 
   <tr>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="65" height="65" alt="Tailwind" />
+      <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" width="65" height="65" />
       <br>Tailwind
     </td>
+
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="65" height="65" alt="NodeJS" />
+      <img src="https://skillicons.dev/icons?i=nodejs" alt="NodeJS" width="65" height="65" />
       <br>NodeJS
     </td>
+
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=postgres" width="65" height="65" alt="PostgreSQL" />
+      <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="65" height="65" />
       <br>PostgreSQL
     </td>
+
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=mongodb" width="65" height="65" alt="MongoDB" />
+      <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="65" height="65" />
       <br>MongoDB
     </td>
+
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=linux" width="65" height="65" alt="Kali Linux" />
+      <img src="https://skillicons.dev/icons?i=linux" alt="Kali Linux" width="65" height="65" />
       <br>Kali Linux
     </td>
+
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=ubuntu" width="65" height="65" alt="Ubuntu" />
+      <img src="https://skillicons.dev/icons?i=ubuntu" alt="Ubuntu" width="65" height="65" />
       <br>Ubuntu
     </td>
+
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=postman" width="65" height="65" alt="Postman" />
+      <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="65" height="65" />
       <br>Postman
-      </td>
-      <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=redis" width="65" height="65" alt="Redis" />
-    <br>Redis
-  </td>
-  
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=nginx" width="65" height="65" alt="Nginx" />
-    <br>Nginx
-  </td>
-  
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=cloudflare" width="65" height="65" alt="Cloudflare" />
-    <br>Cloudflare
-  </td>
-  
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=fastapi" width="65" height="65" alt="FastAPI" />
-    <br>FastAPI
-  </td>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=redis" alt="Redis" width="65" height="65" />
+      <br>Redis
+    </td>
+
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nginx" alt="Nginx" width="65" height="65" />
+      <br>Nginx
+    </td>
+
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=cloudflare" alt="Cloudflare" width="65" height="65" />
+      <br>Cloudflare
+    </td>
+
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" width="65" height="65" />
+      <br>FastAPI
+    </td>
   </tr>
 </table>
-
 ---
 ## 🚀 🔥 Checkout some of my Latest Projects
 
