@@ -125,20 +125,20 @@ I’ve been coding for over 6 years and worked with many languages and technolog
       <br>Redis
     </td>
 
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nginx" alt="Nginx" width="65" height="65" />
-      <br>Nginx
-    </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=nginx" alt="Nginx" width="65" height="65" />
+    <br>Nginx
+  </td>
 
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=cloudflare" alt="Cloudflare" width="65" height="65" />
-      <br>Cloudflare
-    </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=cloudflare" alt="Cloudflare" width="65" height="65" />
+    <br>Cloudflare
+  </td>
 
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" width="65" height="65" />
-      <br>FastAPI
-    </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" width="65" height="65" />
+    <br>FastAPI
+  </td>
   </tr>
 </table>
 ---
