@@ -193,13 +193,6 @@ A peer-to-peer large file transfer platform built using **WebRTC**, enabling sec
 🔗 [View Project](https://github.com/kali-kar/Largefile-Transfer))
 
 ---
-### 💬 Messaging App Backend Server (Under Development)
-A scalable backend server powering a messaging application.  
-Built with focus on authentication, real-time communication, and structured API design.  
-🚧 Currently under development — improvements and features being added actively.  
-🔗 [View Project](https://github.com/yourusername/messaging-backend)
-
----
 
 ✨ More innovative builds are coming soon...  
 🚀 Stay tuned — the journey is just getting started.
