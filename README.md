@@ -173,7 +173,7 @@ A **web-based cultural & tourism platform** for Mangalore and Udupi, delivering 
 Features an **AI-powered chatbot** built using a **Knowledge-Based Agent** and integrated with **Gemini LLM** for dynamic query resolution.  
 Enhances user engagement through **real-time information access** and an intuitive browsing experience.  
 🤖 Smart Assistance. Local Insights. Interactive Exploration.  
-🔗 [View Project](#)
+🔗 [View Project](https://github.com/kali-kar/Karavali)
 
 ### ⚙️ Secure CI/CD Pipeline with GitHub Actions  
 A repository that contains the source code of a simple web application along with a securely configured CI/CD pipeline using **GitHub Actions**.  
