@@ -139,6 +139,20 @@ I’ve been coding for over 6 years and worked with many languages and technolog
     <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" width="65" height="65" />
     <br>FastAPI
   </td>
+  <td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="65" height="65" />
+  <br>AWS
+</td>
+
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=azure" alt="Azure" width="65" height="65" />
+  <br>Azure
+</td>
+
+<td align="center" width="96">
+  <img src="https://cdn.simpleicons.org/claude" alt="Claude AI" width="65" height="65" />
+  <br>Claude
+</td>
   </tr>
 </table>
 ---
