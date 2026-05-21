@@ -178,7 +178,7 @@ Enhances user engagement through **real-time information access** and an intuiti
 ### 🧠 Indian Scientists Quotes API
 A production-grade **REST API** built using **Node.js, Express, MongoDB, and Redis**, delivering curated quotes from renowned Indian scientists with scalable architecture, caching, authentication, rate limiting, and optimized query performance.  
 ⚡ Fast Responses. Scalable Backend. Clean API Design.  
-🔗 [View Project](https://github.com/yourusername/project-name)
+🔗 [View Project](https://github.com/kali-kar/quotes-api)
 
 ### ⚙️ Secure CI/CD Pipeline with GitHub Actions  
 A repository that contains the source code of a simple web application along with a securely configured CI/CD pipeline using **GitHub Actions**.  
