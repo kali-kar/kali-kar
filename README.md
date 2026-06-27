@@ -173,7 +173,7 @@ A **web-based cultural & tourism platform** for Mangalore and Udupi, delivering 
 Features an **AI-powered chatbot** built using a **Knowledge-Based Agent** and integrated with **Gemini LLM** for dynamic query resolution.  
 Enhances user engagement through **real-time information access** and an intuitive browsing experience.  
 🤖 Smart Assistance. Local Insights. Interactive Exploration.  
-🔗 [View Project](https://github.com/kali-kar/Karavali)
+🔗 [View Project](https://github.com/kali-kar/Karavali) --> [Live Link](https://karavali.netlify.app)
 
 ### 🧠 Indian Scientists Quotes API
 A production-grade **REST API** built using **Node.js, Express, MongoDB, and Redis**, delivering curated quotes from renowned Indian scientists with scalable architecture, caching, authentication, rate limiting, and optimized query performance.  
@@ -189,13 +189,13 @@ Implements automated builds, testing workflows, and security-focused deployment 
 ### 🗄 Student Data Management System (DBMS Project)
 A complete **DBMS project** built using **Tkinter (Python GUI)** and **MySQL**, designed to manage student records efficiently with CRUD operations and structured database integration.  
 📊 Clean UI. Structured Data. Reliable Backend.  
-🔗 [View Project](https://github.com/kali-kar/DBMS_Project))
+🔗 [View Project](https://github.com/kali-kar/DBMS_Project) 
 
 ---
 ### 🌐 Large File Transfer Website (WebRTC)
 A peer-to-peer large file transfer platform built using **WebRTC**, enabling secure and direct browser-to-browser file sharing without relying on traditional servers.  
 ⚡ Fast. Private. Decentralized.  
-🔗 [View Project](https://github.com/kali-kar/Largefile-Transfer))
+🔗 [View Project](https://github.com/kali-kar/Largefile-Transfer) --> [Live Link](https://largefile.netlify.app)
 
 ---
 
