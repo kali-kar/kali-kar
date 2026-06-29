@@ -9,17 +9,19 @@
 <p align="center">
   
   <a href="https://shrinidhihegde.vercel.app" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-  <a href="(https://www.linkedin.com/in/shrinidhi-hegde052/)">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white"/>
-  </a>
-  <a href="https://leetcode.com/your-username/">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logoColor=white" alt="Portfolio"/>
 </a>
 
-<a href="https://tryhackme.com/p/shriplayerone/">
-  <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/>
+<a href="https://www.linkedin.com/in/shrinidhi-hegde052/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="https://leetcode.com/your-username/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+</a>
+
+<a href="https://tryhackme.com/p/shriplayerone" target="_blank">
+  <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe"/>
 </a>
 
 ---
