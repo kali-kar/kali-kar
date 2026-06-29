@@ -9,7 +9,7 @@
 <p align="center">
   
   <a href="https://shrinidhihegde.vercel.app" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/🌐_Portfolio-Visit-181717?style=for-the-badge"/>
 </a>
   <a href="(https://www.linkedin.com/in/shrinidhi-hegde052/)">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white"/>
