@@ -158,50 +158,83 @@ I’ve been coding for over 6 years and worked with many languages and technolog
   </tr>
 </table>
 ---
-## 🚀 🔥 Checkout some of my Latest Projects
+## 🚀 Featured Projects
 
-Here are a few things I’ve been building lately 👇  
+<table>
+<tr>
 
-### 🛡️ Intrusion Detection & Alert System (Raspberry Pi)  
-A real-time **intrusion detection system** built using **Raspberry Pi 4** and **Pi Camera**, designed for motion-based surveillance on edge devices.  
-Implements automated alerting via **Email & SMS APIs** to instantly notify users upon detection events.  
-Optimized for **low-power edge processing**, ensuring minimal latency and reliable performance.  
-Currently being enhanced with **NavIC-based geolocation** for aerial monitoring and location-aware security tracking.  
-📡 Edge AI. Real-time Alerts. Smart Surveillance.  
-🔗 [View Project](https://github.com/kali-kar/IOTAug25)
+<td width="50%">
 
-### 🌴 Karavali – Cultural Tourism Platform with AI Chatbot  
-A **web-based cultural & tourism platform** for Mangalore and Udupi, delivering structured navigation for landmarks and destinations.  
-Features an **AI-powered chatbot** built using a **Knowledge-Based Agent** and integrated with **Gemini LLM** for dynamic query resolution.  
-Enhances user engagement through **real-time information access** and an intuitive browsing experience.  
-🤖 Smart Assistance. Local Insights. Interactive Exploration.  
-🔗 [View Project](https://github.com/kali-kar/Karavali) --> [Live Link](https://karavali.netlify.app)
+### 🛡️ Intrusion Detection System
+Edge-based surveillance using **Raspberry Pi 4** with motion detection, Email/SMS alerts, and optimized edge processing. *(NavIC integration in progress)*
 
-### 🧠 Indian Scientists Quotes API
-A production-grade **REST API** built using **Node.js, Express, MongoDB, and Redis**, delivering curated quotes from renowned Indian scientists with scalable architecture, caching, authentication, rate limiting, and optimized query performance.  
-⚡ Fast Responses. Scalable Backend. Clean API Design.  
-🔗 [View Project](https://github.com/kali-kar/quotes-api)
+**`Python` `OpenCV` `Raspberry Pi`**  
+🔗 **[Repository](https://github.com/kali-kar/IOTAug25)**
 
-### ⚙️ Secure CI/CD Pipeline with GitHub Actions  
-A repository that contains the source code of a simple web application along with a securely configured CI/CD pipeline using **GitHub Actions**.  
-Implements automated builds, testing workflows, and security-focused deployment practices.  
-🔐 Clean Code. Automated Workflows. Secure Deployment.  
-🔗 [View Project](https://github.com/kali-kar/Simple_DevOps-Pipeline)
+</td>
 
-### 🗄 Student Data Management System (DBMS Project)
-A complete **DBMS project** built using **Tkinter (Python GUI)** and **MySQL**, designed to manage student records efficiently with CRUD operations and structured database integration.  
-📊 Clean UI. Structured Data. Reliable Backend.  
-🔗 [View Project](https://github.com/kali-kar/DBMS_Project) 
+<td width="50%">
+
+### 🌴 Karavali
+AI-powered tourism platform featuring a **Knowledge-Based chatbot** integrated with **Gemini** for interactive cultural exploration.
+
+**`React` `Node.js` `Gemini API`**  
+🔗 **[Repository](https://github.com/kali-kar/Karavali)** • **[Live](https://karavali.netlify.app)**
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+### 🧠 Scientists Quotes API
+Production-ready REST API with **Redis caching**, authentication, rate limiting, and scalable backend architecture.
+
+**`Node.js` `Express` `MongoDB` `Redis`**  
+🔗 **[Repository](https://github.com/kali-kar/quotes-api)**
+
+</td>
+
+<td>
+
+### 🌐 PeerFlow File Transfer
+Secure peer-to-peer large file sharing using **WebRTC**, enabling encrypted browser-to-browser transfers without storing files.
+
+**`WebRTC` `React` `Node.js`**  
+🔗 **[Repository](https://github.com/kali-kar/Largefile-Transfer)** • **[Live](https://largefile.netlify.app)**
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+### ⚙️ Secure CI/CD Pipeline
+GitHub Actions pipeline implementing automated builds, testing, and secure deployment workflows.
+
+**`GitHub Actions` `Docker`**  
+🔗 **[Repository](https://github.com/kali-kar/Simple_DevOps-Pipeline)**
+
+</td>
+
+<td>
+
+### 🗄️ Student Data Management
+Desktop application for managing student records with CRUD operations and MySQL database integration.
+
+**`Python` `Tkinter` `MySQL`**  
+🔗 **[Repository](https://github.com/kali-kar/DBMS_Project)**
+
+</td>
+
+</tr>
+</table>
 
 ---
-### 🌐 Large File Transfer Website (WebRTC)
-A peer-to-peer large file transfer platform built using **WebRTC**, enabling secure and direct browser-to-browser file sharing without relying on traditional servers.  
-⚡ Fast. Private. Decentralized.  
-🔗 [View Project](https://github.com/kali-kar/Largefile-Transfer) --> [Live Link](https://largefile.netlify.app)
 
----
-
-✨ More innovative builds are coming soon...  
-🚀 Stay tuned — the journey is just getting started.
-
+✨ *Building secure systems, scalable backends, and real-world cybersecurity solutions.*
 
